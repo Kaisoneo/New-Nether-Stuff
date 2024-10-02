@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "new_nether_stuff:block/veils-fungus",
+    "particle": "new_nether_stuff:block/veils-fungus-particel"
+  },
+  "render_type": "cutout"
+}

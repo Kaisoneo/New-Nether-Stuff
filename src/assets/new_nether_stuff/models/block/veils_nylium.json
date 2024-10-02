@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "minecraft:block/netherrack",
+    "top": "new_nether_stuff:block/veilgrass_top",
+    "side": "new_nether_stuff:block/veilsoilveilgrass",
+    "overlay": "new_nether_stuff:block/veilsoilveilgrass",
+    "particle": "minecraft:block/netherrack"
+  },
+  "render_type": "cutout_mipped"
+}

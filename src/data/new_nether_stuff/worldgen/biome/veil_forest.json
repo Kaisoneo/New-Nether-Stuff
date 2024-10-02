@@ -1,0 +1,70 @@
+{
+  "has_precipitation": true,
+  "temperature": 0.5,
+  "downfall": 0.5,
+  "effects": {
+    "ambient_sound": "ambient.crimson_forest.additions",
+    "mood_sound": {
+      "sound": "ambient.crimson_forest.mood",
+      "tick_delay": 6000,
+      "offset": 8,
+      "block_search_extent": 2
+    },
+    "additions_sound": {
+      "sound": "ambient.crimson_forest.loop",
+      "tick_chance": 0.0111
+    },
+    "music": {
+      "sound": "music.nether.crimson_forest",
+      "min_delay": 12000,
+      "max_delay": 24000,
+      "replace_current_music": true
+    },
+    "foliage_color": -4565549,
+    "grass_color": -8453889,
+    "sky_color": -1146130,
+    "fog_color": -1146130,
+    "water_color": -7722014,
+    "water_fog_color": -2572328
+  },
+  "spawners": {
+    "monster": [
+      {
+        "type": "zombified_piglin",
+        "weight": 20,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "enderman",
+        "weight": 20,
+        "minCount": 4,
+        "maxCount": 4
+      }
+    ],
+    "creature": [],
+    "ambient": [],
+    "axolotls": [],
+    "underground_water_creature": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "new_nether_stuff:veil_forest_tree"
+    ],
+    []
+  ]
+}

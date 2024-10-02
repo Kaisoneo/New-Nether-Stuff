@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "new_nether_stuff:veil_forest",
+  "features": "new_nether_stuff:veils_fungus",
+  "step": "vegetal_decoration"
+}

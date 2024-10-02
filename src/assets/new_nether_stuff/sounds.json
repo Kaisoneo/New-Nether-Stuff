@@ -1,0 +1,26 @@
+{
+  "baselun": {
+    "sounds": [
+      {
+        "name": "new_nether_stuff:baselun",
+        "stream": true
+      }
+    ]
+  },
+  "if-c418": {
+    "sounds": [
+      {
+        "name": "new_nether_stuff:if-c418",
+        "stream": true
+      }
+    ]
+  },
+  "astral": {
+    "sounds": [
+      {
+        "name": "new_nether_stuff:astral",
+        "stream": true
+      }
+    ]
+  }
+}
